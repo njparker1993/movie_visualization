@@ -14,3 +14,7 @@ This project is a visual exploration of film 'flops'. We define a box-office flo
 3. Run the [data manipulations notebook](https://github.com/njparker1993/movie_visualization/blob/master/dataset_wide_data_manipulations.ipynb) to genreate merged and cleaned datasets
 4. Run the [combined visualization notebook](https://github.com/njparker1993/movie_visualization/blob/master/final_combined_notebooks.ipynb) to generate the plots
 5. Our final visualizations and narrative can be seen in a [pdf slideshow](https://github.com/njparker1993/movie_visualization/blob/master/Visualization_Presentation.pdf) we created and presented at the University of San Francisco
+
+<p align = 'center'>
+  <img src=finished_figures/fig4-High_Risk_Genres.png width = 300>
+ </p>
