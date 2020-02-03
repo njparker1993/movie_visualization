@@ -16,5 +16,5 @@ This project is a visual exploration of film 'flops'. We define a box-office flo
 5. Our final visualizations and narrative can be seen in a [pdf slideshow](https://github.com/njparker1993/movie_visualization/blob/master/Visualization_Presentation.pdf) we created and presented at the University of San Francisco
 
 <p align = 'center'>
-  <img src=finished_figures/fig4-High_Risk_Genres.png width = 300>
+  <img src=finished_figures/fig4-High_Risk_Genres.png width = 400>
  </p>
